@@ -1,6 +1,2 @@
- Crie um programa que solicite um número ao usuário e
- imprima uma lista de todos os divisores desse número.
-
-Se você não sabe o que é um divisor,
-é um número que se divide igualmente em outro número.
-Por exemplo, 13 é um divisor de 26 porque 26/13 não tem resto.
+Dentro da pasta bin; nós temos o nosso main.dart, com o ponto de partida da aplicação.
+E dentro da pasta lib; nós temos 4 arquivos de exercicio, cada um com seu enunciado
